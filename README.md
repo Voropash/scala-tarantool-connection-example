@@ -1,4 +1,4 @@
-# scala-tarantool
+# first step for NifantovaIrina/scala-tarantool
 
 ## How to run connection tests?
 
